@@ -1,6 +1,6 @@
 # Event Management Web Application.
   Developed with by **Gowtham P.** 
-  A full-stack web application for managing events with user authentication and role-based access control.
+  - A full-stack web application for managing events with user authentication and role-based access control.
 
 ## ✨ Features
 
